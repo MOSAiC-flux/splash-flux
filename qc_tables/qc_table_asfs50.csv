@@ -1,0 +1,192 @@
+ ,,,,,
+,,,,,
+THIS IS FOR ASFS50,,,,,
+,,,,,
+Instrument / measurement,"date, time start","date, time end",Flag,Reason,Who
+"[i.e., temp_2m]",[YYYYMMDD hhmmss],[YYYYMMDD hhmmss],"[1,2,3,4]",[details for determination],[last name]
+sr50_dist,20210901 000000,20220201 192400,2,Failed sensor repaied 2/1/22,ccox
+sr50_dist,20220415 154000,20220415 154000,2,spikes,ccox
+sr50_dist,20220415 154300,20220415 155000,2,spikes,ccox
+sr50_dist,20220510 211000,20221023 114100,1,"Caution: vegetation and poorly reflected surface in summer causes a surface height that it noisey, assoicated with poor signal and difficult to interpret.",ccox
+sr50_dist,20230426 075800,20230426 084400,2,spikes,ccox
+sr50_dist,20230524 000000,20230901 000000,1,"Caution: vegetation and poorly reflected surface in summer causes a surface height that it noisey, assoicated with poor signal and difficult to interpret.",ccox
+co2_licor,20220427 213600,20220427 213700,2,spike,ccox
+co2_licor,20220502 132700,20220502 133200,2,spike,ccox
+co2_licor,20220928 122100,20220928 122400,2,spike,ccox
+co2_licor,20230224 002400,20230224 002500,2,spike,ccox
+down_long_hemisp,20220608 145600,20220608 145600,2,spike,ccox
+down_long_hemisp,20220611 150100,20220611 150300,2,spike,ccox
+down_long_hemisp,20220612 153900,20220612 153900,2,spike,ccox
+down_long_hemisp,20220612 170500,20220612 170500,2,spike,ccox
+down_long_hemisp,20220612 195900,20220612 195900,2,spike,ccox
+down_long_hemisp,20220612 205600,20220612 205700,2,spike,ccox
+down_long_hemisp,20220612 234400,20220612 234900,2,spike,ccox
+down_long_hemisp,20220613 145900,20220613 150100,2,spike,ccox
+down_long_hemisp,20220613 165200,20220613 165200,2,spike,ccox
+down_long_hemisp,20220613 200800,20220613 200800,2,spike,ccox
+down_long_hemisp,20220613 202600,20220613 202600,2,spike,ccox
+down_long_hemisp,20220613 220700,20220613 220800,2,spike,ccox
+down_long_hemisp,20220613 235900,20220614 000000,2,spike,ccox
+down_long_hemisp,20220614 003800,20220614 004100,2,spike,ccox
+down_long_hemisp,20220615 142600,20220615 142600,2,spike,ccox
+down_long_hemisp,20220615 190000,20220615 190200,2,spike,ccox
+down_long_hemisp,20220615 2213200,20220615 213300,2,spike,ccox
+down_long_hemisp,20220616 185900,20220616 185900,2,spike,ccox
+down_long_hemisp,20220617 205500,20220617 205500,2,spike,ccox
+down_long_hemisp,20220617 223500,20220617 223500,2,spike,ccox
+down_long_hemisp,20220619 153100,20220619 153100,2,spike,ccox
+down_long_hemisp,20220619 161600,20220619 161600,2,spike,ccox
+down_long_hemisp,20220619 185500,20220619 185500,2,spike,ccox
+down_long_hemisp,20220619 201600,20220619 201700,1,caution-y spike,ccox
+down_long_hemisp,20220619 202500,20220619 202500,1,caution-y spike,ccox
+down_long_hemisp,20220619 224600,20220619 224700,2,spike,ccox
+down_long_hemisp,20220620 003800,20220620 003800,2,spike,ccox
+down_long_hemisp,20220620 152400,20220620 152400,2,spike,ccox
+down_long_hemisp,20220621 152800,20220621 152800,2,spike,ccox
+down_long_hemisp,20220621 185200,20220621 185300,2,spike,ccox
+down_long_hemisp,20220621 201000,20220621 201600,2,spike,ccox
+down_long_hemisp,20220621 222800,20220621 222800,2,spike,ccox
+down_long_hemisp,20220621 223200,20220621 223200,2,spike,ccox
+down_long_hemisp,20220622 144600,20220622 144600,2,spike,ccox
+down_long_hemisp,20220622 151900,20220622 151900,2,spike,ccox
+down_long_hemisp,20220623 205900,20220623 205900,2,spike,ccox
+down_long_hemisp,20220623 230800,20220623 231000,2,spike,ccox
+down_long_hemisp,20220624 154400,20220624 154400,2,spike,ccox
+down_long_hemisp,20220625 191600,20220625 191700,2,spike,ccox
+down_long_hemisp,20220625 191900,20220625 191900,2,spike,ccox
+down_long_hemisp,20220625 204100,20220625 204500,2,spike,ccox
+down_long_hemisp,20220626 150000,20220626 150000,2,spike,ccox
+down_long_hemisp,20220626 150600,20220626 151400,2,spike,ccox
+down_long_hemisp,20220626 170300,20220626 170300,2,spike,ccox
+down_long_hemisp,20220626 170900,20220626 170900,2,spike,ccox
+down_long_hemisp,20220626 171600,20220626 171600,2,spike,ccox
+down_long_hemisp,20220626 172400,20220626 172400,2,spike,ccox
+down_long_hemisp,20220627 135600,20220627 135600,2,spike,ccox
+down_long_hemisp,20220627 163900,20220627 164100,2,spike,ccox
+down_long_hemisp,20220627 182100,20220627 182100,2,spike,ccox
+down_long_hemisp,20220627 182300,20220627 182300,2,spike,ccox
+down_long_hemisp,20220627 215700,20220627 215800,2,spike,ccox
+down_long_hemisp,20220628 175600,20220628 175600,2,spike,ccox
+down_long_hemisp,20220629 144100,20220629 144100,2,spike,ccox
+down_long_hemisp,20220629 144500,20220629 144500,2,spike,ccox
+down_long_hemisp,20220629 161900,20220629 161900,2,spike,ccox
+down_long_hemisp,20220629 190700,20220629 190700,2,spike,ccox
+down_long_hemisp,20220701 202200,20220701 202200,2,spike,ccox
+down_long_hemisp,20220702 161200,20220702 161200,2,spike,ccox
+down_long_hemisp,20220704 160400,20220704 160400,2,spike,ccox
+down_long_hemisp,20220704 163900,20220704 164000,2,spike,ccox
+down_long_hemisp,20220704 181900,20220704 181900,2,spike,ccox
+down_long_hemisp,20220704 194900,20220704 194900,2,spike,ccox
+down_long_hemisp,20220706 155100,20220706 155500,2,spike,ccox
+down_long_hemisp,20220706 152600,20220706 152600,2,spike,ccox
+down_long_hemisp,20220706 191500,20220706 191600,2,spike,ccox
+down_long_hemisp,20220706 192200,20220706 192200,2,spike,ccox
+down_long_hemisp,20220706 200300,20220706 200300,2,spike,ccox
+down_long_hemisp,20220707 171000,20220707 171000,2,spike,ccox
+down_long_hemisp,20220707 173700,20220707 173800,2,spike,ccox
+down_long_hemisp,20220707 174600,20220707 174600,2,spike,ccox
+down_long_hemisp,20220707 175100,20220707 175100,2,spike,ccox
+down_long_hemisp,20220707 184000,20220707 184000,2,spike,ccox
+down_long_hemisp,20220707 184400,20220707 184400,2,spike,ccox
+down_long_hemisp,20220707 200100,20220707 200100,2,spike,ccox
+down_long_hemisp,20220707 200400,20220707 200400,2,spike,ccox
+down_long_hemisp,20220707 201100,20220707 201100,2,spike,ccox
+down_long_hemisp,20220707 202200,20220707 202300,2,spike,ccox
+down_long_hemisp,20220712 165500,20220712 165500,2,spike,ccox
+down_long_hemisp,20220712 192100,20220712 192100,2,spike,ccox
+down_long_hemisp,20220713 163700,20220713 163700,2,spike,ccox
+down_long_hemisp,20220713 170700,20220713 170700,2,spike,ccox
+down_long_hemisp,20220714 151300,20220714 151300,2,spike,ccox
+down_long_hemisp,20220714 152300,20220714 152400,2,spike,ccox
+down_long_hemisp,20220714 152700,20220714 152700,2,spike,ccox
+down_long_hemisp,20220714 152900,20220714 152900,2,spike,ccox
+down_long_hemisp,20220714 153100,20220714 153100,2,spike,ccox
+down_long_hemisp,20220714 162500,20220714 162600,2,spike,ccox
+down_long_hemisp,20220716 190400,20220716 190500,2,spike,ccox
+down_long_hemisp,20220716 185700,20220716 185700,2,spike,ccox
+down_long_hemisp,20220717 202800,20220717 203300,2,spike,ccox
+down_long_hemisp,20220717 203500,20220717 203500,2,spike,ccox
+down_long_hemisp,20220717 203800,20220717 203800,2,spike,ccox
+down_long_hemisp,20220717 215000,20220717 215000,2,spike,ccox
+down_long_hemisp,20220717 215300,20220717 215300,2,spike,ccox
+down_long_hemisp,20220717 215900,20220717 215900,2,spike,ccox
+down_long_hemisp,20220718 195400,20220718 195400,2,spike,ccox
+down_long_hemisp,20220718 195600,20220718 195700,2,spike,ccox
+down_long_hemisp,20220718 202200,20220718 202200,2,spike,ccox
+down_long_hemisp,20220718 202400,20220718 202400,2,spike,ccox
+down_long_hemisp,20220719 154400,20220719 154400,2,spike,ccox
+down_long_hemisp,20220719 154700,20220719 154700,2,spike,ccox
+down_long_hemisp,20220719 192900,20220719 193200,2,spike,ccox
+down_long_hemisp,20230618 182700,20230618 182800,2,spike,ccox
+soil_vwc_5cm,20210901 000000,20230901 000000,1,may have been exposed to air,ccox
+soil_ka_5cm,20210901 000000,20230901 000000,1,may have been exposed to air,ccox
+soil_t_5cm,20210901 000000,20230901 000000,1,may have been exposed to air,ccox
+soil_ec_5cm,20210901 000000,20230901 000000,1,may have been exposed to air,ccox
+rh,20220219 161500,20220219 161700,1,rh > 102...wet?,ccox
+rh,20220227 155700,20220227 155700,1,rh > 102...wet?,ccox
+rh,20220227 165000,20220227 165400,1,rh > 102...wet?,ccox
+rh,20220424 142200,20220424 142200,1,rh > 102...wet?,ccox
+rh,20220424 143700,20220424 143700,1,rh > 102...wet?,ccox
+rh,20220424 144200,20220424 144200,1,rh > 102...wet?,ccox
+rh,20220806 141100,20220806 141100,1,rh > 102...wet?,ccox
+rh,20221107 152600,20221107 152600,1,rh > 102...wet?,ccox
+rh,20230107 120300,20230107 120600,1,rh > 102...wet?,ccox
+rh,20230114 162400,20230114 162400,1,rh > 102...wet?,ccox
+rh,20230114 165400,20230114 165500,1,rh > 102...wet?,ccox
+rh,20230328 151700,20230328 151800,1,rh > 102...wet?,ccox
+rh,20230328 155500,20230328 160000,1,rh > 102...wet?,ccox
+rh,20230401 142400,20230401 142500,1,rh > 102...wet?,ccox
+rh,20230425 072900,20230425 072900,1,rh > 102...wet?,ccox
+ALL_WINDS,20220614 181000,20220614 181500,1,"major anomaly in w, but not in the horizontal",ccox
+h2o_licor,20230110 101400,20230110 102200,2,spikes,ccox
+co2_licor,20230511 221600,20230511 221800,2,spikes,ccox
+co2_licor,20230503 031200,20230503 031400,2,spikes,ccox
+ALL_SOIL,20211022 164800,20211022 191200,2,spikes,ccox
+ALL_SOIL,20230307 142000,20230308 000000,2,spikes,ccox
+k_eff_soil,20211012 000000,20211013 155000,2,install,ccox
+k_eff_soil,20230221 000000,20230221 172000,1,mean value,ccox
+k_eff_soil,20230307 142400,20230314 215000,1,mean value,ccox
+k_eff_soil,20230526 000000,20230527 000000,1,persisted value,ccox
+k_eff_soil,20230612 000000,20230612 212000,1,persisted value,ccox
+k_eff_soil,20230621 000000,20230622 000000,1,persisted value,ccox
+c_soil,20230221 000000,20230221 172000,1,see k_eff,ccox
+c_soil,20230307 142400,20230314 215000,1,see k_eff,ccox
+c_soil,20230526 000000,20230527 000000,1,see k_eff,ccox
+c_soil,20230612 000000,20230612 212000,1,see k_eff,ccox
+c_soil,20230621 000000,20230622 000000,1,see k_eff,ccox
+subsurface_heat_flux_A,20230221 000000,20230221 172000,1,see k_eff,ccox
+subsurface_heat_flux_A,20230307 142400,20230314 215000,1,see k_eff,ccox
+subsurface_heat_flux_A,20230526 000000,20230527 000000,1,see k_eff,ccox
+subsurface_heat_flux_A,20230612 000000,20230612 212000,1,see k_eff,ccox
+subsurface_heat_flux_A,20230621 000000,20230622 000000,1,see k_eff,ccox
+subsurface_heat_flux_B,20230221 000000,20230221 172000,1,see k_eff,ccox
+subsurface_heat_flux_B,20230307 142400,20230314 215000,1,see k_eff,ccox
+subsurface_heat_flux_B,20230526 000000,20230527 000000,1,see k_eff,ccox
+subsurface_heat_flux_B,20230612 000000,20230612 212000,1,see k_eff,ccox
+subsurface_heat_flux_B,20230621 000000,20230622 000000,1,see k_eff,ccox
+ALL_TURBULENCE,20211119 063000,20211119 064000,2,spike ,ccox
+ALL_TURBULENCE,20211119 070000,20211119 071000,2,spike ,ccox
+ALL_TURBULENCE,20220107 185000,20220107 186000,2,spike ,ccox
+ALL_TURBULENCE,20220220 081000,20220220 082000,2,spike ,ccox
+ALL_TURBULENCE,20220328 112000,20220328 113000,2,spike ,ccox
+ALL_TURBULENCE,20220427 055000,20220427 056000,2,spike ,ccox
+ALL_TURBULENCE,20220429 050000,20220429 051000,2,spike ,ccox
+ALL_TURBULENCE,20220503 145000,20220503 146000,2,spike ,ccox
+ALL_TURBULENCE,20220508 112000,20220508 113000,2,spike ,ccox
+ALL_TURBULENCE,20220523 055000,20220523 056000,2,spike ,ccox
+ALL_TURBULENCE,20220613 094000,20220613 095000,2,spike ,ccox
+ALL_TURBULENCE,20220613 105000,20220613 106000,2,spike ,ccox
+ALL_TURBULENCE,20220614 181000,20220614 182000,2,spike ,ccox
+ALL_TURBULENCE,20220617 190000,20220617 191000,2,spike ,ccox
+ALL_TURBULENCE,20220719 202000,20220719 203000,2,spike ,ccox
+ALL_TURBULENCE,20220811 195000,20220811 196000,2,spike ,ccox
+ALL_TURBULENCE,20220918 113000,20220918 114000,2,spike ,ccox
+ALL_TURBULENCE,20220918 121000,20220918 122000,2,spike ,ccox
+ALL_TURBULENCE,20221201 142000,20221201 143000,2,spike ,ccox
+ALL_TURBULENCE,20221205 003000,20221205 004000,2,spike ,ccox
+ALL_TURBULENCE,20221209 223000,20221209 224000,2,spike ,ccox
+ALL_TURBULENCE,20221210 021000,20221210 022000,2,spike ,ccox
+ALL_TURBULENCE,20230114 210000,20230114 211000,2,spike ,ccox
+ALL_TURBULENCE,20230402 143000,20230402 144000,2,spike ,ccox
+ALL_TURBULENCE,20230418 032000,20230418 033000,2,spike ,ccox
+ALL_TURBULENCE,20230620 064000,20230620 065000,2,spike ,ccox
